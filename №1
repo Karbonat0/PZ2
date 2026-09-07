@@ -4,3 +4,6 @@ y = input(int)
 
 ak = a/x
 ay = ak*y
+
+print(ak)
+print(ay)
