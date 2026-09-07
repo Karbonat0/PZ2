@@ -1,0 +1,6 @@
+x = input(int)
+a = input(int)
+y = input(int)
+
+ak = a/x
+ay = ak*y
